@@ -8,7 +8,7 @@ Project Report
 https://drive.google.com/file/d/1Y8FRLbZQEYApMRY8YX6U_mnyYn0_QhLQ/view?usp=sharing
 
 
-Screenshot of the Project
+Screenshot of Project Model
 
 ![Screenshot 2023-02-14 112636](https://user-images.githubusercontent.com/105710017/236280851-892ec02e-47f3-4173-8ba8-7d2f584abde6.png)
 
