@@ -1,14 +1,14 @@
-DECENTRALIZED SECURE CLOUD STORAGE USING BLOCKCHAIN TECHNOLOGY
+# Decentralized Secure Cloud Storage Using Blockchain Technology
 
-Our project ‘Decentralized Secure Cloud Storage using Blockchain Technology’ uses React js, Solidity, Ethereum and Web3.js to build a Secure Decentralized Cloud Storage. This project combines Cloud with Blockchain technology to produce a secured file storage system. Blockchain is considered by many to be the safest technology. Here, a single file is splitted and stored in blocks using the file manipulation and Advanced Encryption Standard (AES) algorithms. A high level, contract oriented language, Solidity is used for writing smart contracts. The system architecture which explains the cloud and blockchain processes is constructed. This system also ensures that it is free from attacks such as Brute force.
+Our project, "Decentralized Secure Cloud Storage using Blockchain Technology," leverages React.js, Solidity, Ethereum, and Web3.js to create a highly secure decentralized cloud storage system. By integrating cloud storage with blockchain technology, we offer robust security for file storage. Files are split and encrypted using Advanced Encryption Standard (AES) algorithms, then distributed across blockchain blocks. Solidity smart contracts manage secure transactions within the system. The architecture details the integration of cloud and blockchain processes, ensuring protection against attacks such as brute force.
 
 
-Project Report
+# Project Report
 
 https://drive.google.com/file/d/1Y8FRLbZQEYApMRY8YX6U_mnyYn0_QhLQ/view?usp=sharing
 
 
-Screenshot of Project Model
+# Screenshot of Project Model
 
 ![Screenshot 2023-02-14 112636](https://user-images.githubusercontent.com/105710017/236280851-892ec02e-47f3-4173-8ba8-7d2f584abde6.png)
 
@@ -18,7 +18,7 @@ Screenshot of Project Model
 
 
 
-Try running some of the following tasks:
+# Try running some of the following tasks:
 
 ```shell
 npx hardhat node // Start Local Blockchain
